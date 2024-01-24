@@ -9,11 +9,8 @@ function App() {
   return (
     <>
       <div>
-        <a href="https://vitejs.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
+        <a href="github.com/safadtm" target="_blank">
+          <img src="../src/assets/heart.png" className="logo" alt="Vite logo" />
         </a>
       </div>
       <h1>Asst.Love + ? {count}</h1>
